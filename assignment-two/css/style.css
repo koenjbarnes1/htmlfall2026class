@@ -1,0 +1,56 @@
+body {
+    background-color: #0d0d0d;
+    color: #f8f8f8;
+    font-family: 'DM Sans', sans-serif;
+    /* i put a dark background to match the album cover and mood of the song */
+}
+
+.chorus {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    color: #f5c76e;
+    /* gave the chorus a thicker font and made it yellow to highlight it more and like make it pop cause its the main part of the song */
+}
+
+.verse1 {
+    font-family: 'DM Sans', sans-serif;
+    color: #a0785a;
+
+}
+
+.verse2 {
+    font-family: 'Great Vibes', cursive;
+    /* cursive font because this verse the weeknd sings and it feels like very eloquent i guess */
+  
+}
+
+
+.verse3 {
+    font-family: 'DM Sans', sans-serif;
+    color: #a0785a;
+    /* for verse 1 and 3 i did a brown basic looking font because travis scott is known for having a brown lambo and it shows hes the one rapping in these verses */
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    /* this centers the album cover and title and artist  */
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 45px;
+}
+
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+}
+/* both h1 and h2 are same thick font to makr it pop*/
+
+main {
+    align-items: center;
+    max-width: 600px;
+    /* keeps lyrics in the middle */
+    margin: auto;
+}
